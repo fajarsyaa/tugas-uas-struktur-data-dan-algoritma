@@ -1,3 +1,7 @@
+// Nama  : Mukhamad Fajar Syaihu Walid
+// NIM   : 220401070410
+// Kelas : IT-204 
+// Nama Matakuliah : Struktur Data dan Algoritma
 #include <iostream>
 #include <string>
 using namespace std;
